@@ -3,9 +3,9 @@
 #include <time.h>
 
 /**
-* main Entry point of our  code
-* outputs last digit and confirms if is > 5, < 6 or  zero
-* Return; Always 0.
+* main - Entry point of the code
+* Description: outputs last digit of a random number and confirms if it is > 5, < 6 or  zero
+* Return: Always 0.
 */
 
 int main(void)

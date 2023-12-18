@@ -4,10 +4,10 @@
 
 /**
 * main - Entry point of the code
-* Description: outputs last digit of a random number and confirms if it is > 5, < 6 or  zero
+* Description: outputs last digit of a random
+* number and confirms if it is > 5, < 6 or  zero
 * Return: Always 0.
 */
-
 int main(void)
 
 {
